@@ -82,3 +82,7 @@ System.out.println(a+b);
 git add .
 git commit -m "feat: 20250212 markdown lesson"
 git push
+
+git add .
+git commit -m feat: 20250214 lottol game removing duplicated numbers"
+git push
